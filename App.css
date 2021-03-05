@@ -1,0 +1,50 @@
+.nav-bg{
+  background-color: rgb(119, 30, 192);
+  /* width:100%; */
+}
+.lab{
+  font-size:30px;
+  padding-left: 10px;
+}
+.main{
+  margin-left: 50px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
+}
+.sidenav{
+  height: 100%;
+  width: 50px;
+  position: fixed;
+  z-index: 1;
+  /* top: 0; */
+  left: 0;
+  background-color: white;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+/* .sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+} */
+
+.sidenav .a:hover {
+  color: violet;
+}
+
+.a{
+  padding-left: 20px;
+}
+
+.searchbar{
+    position: absolute;
+    top: 15px;
+    left: 100px;
+}
+
+.searchbar input {
+    height: 30px;
+    width: 500px;
+}

@@ -1,0 +1,19 @@
+.first{
+    background: rgb(186, 164, 190);
+}
+.second{
+    background: rgb(241, 240, 240);
+}
+.device{
+    background:  rgb(81, 24, 99);
+    text-align: left;
+    color: white;
+    font-size: large;
+}
+.all{
+    text-align: left;
+    border-color:white;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

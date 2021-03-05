@@ -1,0 +1,18 @@
+
+.bg-grey{
+    /* padding-top: 30px; */
+    /* padding-bottom: 5px; */
+    background: rgb(199, 202, 202);
+    margin-top: 30px;
+    margin-bottom:30px;
+    margin-left: 10px;
+    margin-right:10px;
+    height: 40px;
+    text-align: center;
+}
+
+.height{
+    height: 500px;
+    margin-Left: 20px;
+    margin-Right: 10px;
+}
